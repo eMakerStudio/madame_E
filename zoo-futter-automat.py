@@ -1,3 +1,4 @@
+#Unterrichtsaufgabe
 '''Schreibe ein Programm für einen Futterautomaten im Tierpark.
    Es gibt zwei Sorten Futter: Möhren (sind für Pferde, Esel, Kaninchen)
    und Nüsse (sind für Kaninchen, Vögel, Schildkröten)'''
