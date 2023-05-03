@@ -1,5 +1,5 @@
 import time
-konto = [0]
+konto = [10000]
 
 def kontostand():
     print('\nDein aktueller Kontostand beträgt', sum(konto))
